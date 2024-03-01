@@ -20,12 +20,10 @@ https://friendly-mandazi-089fb9.netlify.app/
 
 ## Tech Stack
 
-**Client:** HTML5 , CSS , JavaScript
-
-**Server:** Bored-API
+**Client:** HTML5 , CSS , JavaScript , Bored API
 
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
 
